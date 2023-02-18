@@ -68,7 +68,7 @@ function App() {
               </div>
             </div>
 
-            {/* bottom description */}
+        
             <Description weather={weather} units={units} />
           </div>
         )}
